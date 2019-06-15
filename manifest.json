@@ -1,0 +1,15 @@
+{
+ "manifest_version": 2,
+ "name": "Social Video Downloader",
+ "description": "Download video in popular social network: Facebook, Youtube, Soundcloud ...",
+ "version": "1.0.0",
+ "author": "sinhnn",
+"browser_action": {
+   "default_title": "Download Social Video",
+   "default_icon" : "icon.png"
+ },
+"background":{
+  "scripts": ["background.js"]
+},
+ "permissions": ["activeTab", "clipboardRead", "clipboardWrite","contextMenus", "tabs", "<all_urls>"]
+}
