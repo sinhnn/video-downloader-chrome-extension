@@ -1,6 +1,6 @@
 Video downloader chrome extension
 =================================
-A Chrome extension helps download social videos in Youtube, Facebook, Soundcloud.
+A Chrome extension helps downloading social videos in Youtube, Facebook, Soundcloud.
 
 I'm very sorry of no appearance in chrome web store cause of Google policies.
 
