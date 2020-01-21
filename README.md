@@ -4,8 +4,6 @@ A Chrome extension helps downloading social videos in Youtube, Facebook, Soundcl
 
 I'm very sorry of no appearance in chrome web store cause of Google policies.
 
-My email for suggestions: sinhnn.92@gmail.com
-
 INSTALL:
 --------
 
